@@ -1,6 +1,6 @@
 const navbarHTML = `
 <nav>
-  <a class="adopet" href="../index.html">Adopet</a>
+  <a class="adopet" href="index.html">Adopet</a>
   <input type="checkbox" id="menu-toggle" class="menu-toggle" hidden>
   <label for="menu-toggle" class="hamburguesa">&#9776;</label>
   <div class="nav">
